@@ -6,5 +6,7 @@ def square_array(array)
     numbers_squared.push(array[index] ** 2)
     index += 1 
   end
+  
   return numbers_squared
+  
 end
